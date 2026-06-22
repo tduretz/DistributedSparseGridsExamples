@@ -3,7 +3,7 @@
 This repository aims to provide a few examples of how sparse grids can be employed to:
 
 - create surroguate models
-- refined s apecific region in parameter
+- refine a specific region in parameter space
 - uncertainties, distributions, probability maps
 
 ### Example 1) Maxwell viscoelasticity
