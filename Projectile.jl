@@ -1,7 +1,6 @@
 using StaticArrays, CairoMakie, Distributions
 
 # example borrowed from https://pde-on-gpu.vaw.ethz.ch/lecture1/#exercise_3_volcanic_bomb
-
 const km_h   = 1000/3600
 const nt_max = 100
 const Δt     = 1.0
